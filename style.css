@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 15px;
+}
+
+body{
+  background-color: rgb(25, 3, 65);
+}
+
+.rules{
+  margin: 1rem;
+  color: white;
+}
+
+.backs{
+  margin-left: 2rem;
+  height: 1.5rem;
+width: 5rem;
+}
+
+
+.backs:hover:hover{
+  background-color: chartreuse;
+  border: navy;
+  cursor: pointer;
+}
